@@ -16,10 +16,10 @@ export default {
     return {
       friends: [
         {
-          id: "manuel",
-          name: "Manuel Lorenz",
+          id: "mark",
+          name: "Mark Jones",
           phone: "0123 45678 90",
-          email: "manuel@localhost.com",
+          email: "mark@localhost.com",
         },
         {
           id: "julie",
